@@ -1,3 +1,8 @@
 Flask==1.1.2
-pylint==2.6.2
-locust==1.4.3
+pylint
+locust
+flask
+werkzeug==2.0.3
+jinja2==2.11.3
+markupsafe==2.0.1
+itsdangerous==2.0.1
